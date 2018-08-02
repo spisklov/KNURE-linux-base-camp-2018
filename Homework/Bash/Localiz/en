@@ -7,5 +7,6 @@
 abs_param : Parameters are absent
 n_notInt  : -n not a number
 n_smalTh1 : Value of -n smaller or equal 1
-unknown   : Unknown
+unknown   : Unknown parameter
 pathNoCor : Path not correct
+OK        : Success
