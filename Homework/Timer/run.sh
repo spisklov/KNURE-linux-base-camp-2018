@@ -1,7 +1,7 @@
 #!/bin/bash
 
-
-export BUILD_KERNEL="/home/mgo/Documents/Course/linux-4.17.8"
+export BUILD_KERNEL=/home/mgo/Documents/Course/ORAANGE_PI_ONE/OrangePiH3/kernel
+#export BUILD_KERNEL="/home/mgo/Documents/Course/linux-4.17.8"
 
 FILE_NAME="timer";
 IP_NAME="localhost"
